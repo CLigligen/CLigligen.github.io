@@ -1,44 +1,5 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8">
-        <title>Spin-off of "Project: Travel webpage"</title>
-        <link rel="stylesheet" href="style.css">
-        <style>
+
             h1 {
                 color: rgb(255, 0, 0);
             }
             
-        </style>
-        
-    </head>
-    <body>
-    
-        <h1>Travel to Baguio</h1>
-        <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Burnham_Park_Lake_Philippines.jpeg/640px-Burnham_Park_Lake_Philippines.jpeg" alt="Burnham Park" width="203">
-        <h2>Summer Capital of the Philippines</h2>
-        <img src ="https://upload.wikimedia.org/wikipedia/en/3/3b/Lion%27s_Head_in_Kennon_Road.jpg" alt="Lion Head" width="203">
-        <p>
-        Hailed as the Summer Capital of the Philippines, Baguio is the top destination to go to if you want to take a break from the tropical heat in the lowlands. With average temperatures ranging from 15-23°C, the city rarely experiences temperatures higher than 26°C even during the warmest parts of the year. Because of this climate, Baguio is also home to beautiful plants that wouldn’t usually survive elsewhere in the county. Also nicknamed the City of Pines, you’ll be in for a treat with all the beautiful flowers and lush vegetation as you enter the vicinity. It will truly feel as if you’re entering a different world.
-        </p>
-        <h3>See and Do</h3>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/The_Mansion%2C_Baguio_City._Building_only.jpg" alt="Baguio" width="203">
-        <p>
-        Besides cooling off to experience the cold climate, the place has a lot more to offer, from abundant flora and beautiful parks to unique food and keepsakes. Visit some of these iconic locations: Burnham Park, Camp John Hay, and the Baguio Cathedral. You can opt to be one with nature, ride a bike or boat, or even shop your heart’s content in the different areas of Baguio. Plus, you can go to a strawberry farm and pick some fresh fruits, and maybe also get a taste of strawberry taho! Located in Northern Luzon, this mountain resort city is easily accessible by bus or cars—meaning it’s great for spontaneous road trips too. If you’re curious to see what’s waiting for you, explore Baguio and check out why local and foreign travelers alike include this in their Philippine travel bucket list.
-        </P>
-        
-        <ol>
-        <h4>Where to Go?</h4>
-            <li>Burnham Park</li>
-            <li>Minesview</li>
-            <li>Session Road</li>
-        </ol>
-        <ol>
-            <h5>What to Eat?</h5>
-            <li>Strawberry</li>
-            <li>Ube Jam</li>
-            <li>Hot Chocolate</li>
-        </ol>
-    
-    </body>
-</html>
